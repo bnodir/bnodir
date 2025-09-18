@@ -33,9 +33,7 @@ PLM Systems Engineer at NEC Corporation, implementing and customizing Obbligato 
 
 ### 📈 Stats
 
-<p float="left">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bnodir&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff" /> 
-</p>
+![bnodir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnodir&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff)
 
 ### 🏆 Certifications
 
